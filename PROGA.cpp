@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-    int a, b, с;
+    int a = 1;
+    int b = 2;
+    int c = 3;
     cout << a + b + с;
 }
 
